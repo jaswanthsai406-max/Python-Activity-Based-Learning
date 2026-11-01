@@ -1,1 +1,15 @@
 # Python-Activity-Based-Learning
+ABOTHULA JASWANTH SAI CHARAN
+26001795
+CSE CYBERSECURITY 
+SEC-21
+1.advanced_numeric_pattern_generator
+2.attendance_recovery_computation
+3.attendance_recovery_computation
+4.student_performance_trend_analysis
+5.fuel_consumption_comparison
+6.repeated_transaction_detection
+7.password_policy_validation
+8.string_exam_evaluation
+9.student_marks_matrix_analysis
+10.food_waste_monitoring_system
